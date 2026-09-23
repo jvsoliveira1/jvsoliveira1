@@ -1,3 +1,3 @@
 # Oi / Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jvsoliveira1)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jvsoliveira1&layout=compact&theme_light=light_github&theme_dark=dark_github)
